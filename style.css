@@ -1,0 +1,25 @@
+nav{
+    /* color: rgb(173, 113, 229); */
+    background-color: rgb(137, 26, 241);
+}
+
+.nav-link{
+    color: rgb(173, 113, 229);
+}
+
+.container-fluid{
+    background-color: rgb(137, 26, 241);
+}
+
+.btn{
+    color: yellow;
+    border-color: black;
+}
+
+.btn:hover{
+    background-color: royalblue;
+}
+
+body{
+    background-color: aqua;
+}
